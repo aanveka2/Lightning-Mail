@@ -12,9 +12,9 @@ This is hosted package (Vercel) module of famous mail application in React. The 
 -----------------------------------------------------------------------
 ## Technologies Used:
 
-# React Redux
-# Firebase
-# React Router
+#### React Redux
+#### Firebase
+#### React Router
 
 
 
